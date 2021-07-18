@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPCFirebase</string>
+    <string name="ProductFragment">ProductFragment</string>
+    <string name="CardFragment">CardFragment</string>
+    <string name="noticeFragment">NoticeFragment</string>
+    <string name="product">Product</string>
+    <string name="card">Card</string>
+    <string name="notice">Notice</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911941753769",
+    "project_id": "pcathomepj",
+    "storage_bucket": "pcathomepj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911941753769:android:c248713b922b8bb333c2b8",
+        "android_client_info": {
+          "package_name": "com.example.mypcfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911941753769-bpsepbr4ap2ablad3hvi1s40tfrgafk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqqUMGIAJ5afFBBSzRbUASdlcLnsPS3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911941753769-bpsepbr4ap2ablad3hvi1s40tfrgafk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
